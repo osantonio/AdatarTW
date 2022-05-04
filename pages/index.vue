@@ -1,9 +1,6 @@
 <template>
-  <navbar />
+    <div>
+        <navbarmatt />
+        <footermatt />
+    </div>
 </template>
-
-<script>
-export default {
-  name: 'IndexPage'
-}
-</script>
