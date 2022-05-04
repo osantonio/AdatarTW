@@ -1,6 +1,6 @@
 <template>
 <div>
-  <navbar2/>
+  <Navbar3/>
   <login />
 </div>
 
