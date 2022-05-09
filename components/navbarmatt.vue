@@ -1,7 +1,7 @@
 <template>
     <div>
         <nav class="flex flex-row items-center justify-between px-5 h-12 bg-gray-50">
-            <div class="hidden md:">
+            <div class="md:block lg:hidden ">
                     <menulogo />
                 </div>
             <div class="flex flex-row quicksand text-lg">
